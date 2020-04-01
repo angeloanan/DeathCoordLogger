@@ -1,0 +1,7 @@
+name: DeathCoordsLogger
+version: ${project.version}
+main: xyz.angeloanan.deathcoordslogger.DeathCoordsLogger
+api-version: 1.13
+authors: [angeloanan]
+description: Logs the death coordinates on to the console
+website: angeloanan.xyz
